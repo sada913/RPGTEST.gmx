@@ -1,0 +1,3 @@
+{
+global.expr += argument0
+}
